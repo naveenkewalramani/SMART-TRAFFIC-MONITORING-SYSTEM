@@ -14,7 +14,6 @@ The system uses image processing to control traffic. Traffic density of lanes is
 - Python 3.4+
 - OpenCV 3.2.0 compiled with Python3 support
 - RaspberryPi GPIO Libraries for Python
-- node.js (>= 6.0)
 - MySQL
 - Raspbian Jessie (or equivalent)
 
